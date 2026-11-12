@@ -1,0 +1,5 @@
+name: "fxtwitter"
+title: "Read X posts with FxTwitter"
+description: "Read an X (Twitter) post fast without a browser or login by rewriting its link to api.fxtwitter.com and fetching the JSON with curl; use it whenever the user shares an X link."
+category: "Work and knowledge"
+include_in_prompt: true
